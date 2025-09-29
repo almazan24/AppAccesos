@@ -2,7 +2,7 @@
 
 Aplicación iOS construida en **SwiftUI** para autenticar usuarios (login) y visualizar un **panel de registros de entrada/salida** del personal. El proyecto incluye una **hoja flotante** para registrar nuevas entradas y una navegación basada en **NavigationStack**.
 
-> Marca de ejemplo en la UI: **SERVICIOS INTEGRALES DE ALIMENTOS VITA** (puedes cambiarla por la de tu organización).
+> Marca de ejemplo en la UI: **JESÚS ALMAZÁN** 
 
 ---
 
@@ -11,8 +11,6 @@ Aplicación iOS construida en **SwiftUI** para autenticar usuarios (login) y vis
 * **Xcode** 15 o superior
 * **iOS** 17 o superior (target configurable)
 * **Swift** 5.9+
-
-> Ajusta el `Deployment Target` si necesitas compatibilidad con versiones anteriores.
 
 ---
 
